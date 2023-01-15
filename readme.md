@@ -1,4 +1,4 @@
-# My MERN Application
+# AppGallery MERN Application
 
 This is a MERN application that uses Docker Compose to run the application.
 This an AppGallery that shows you different from images you can search by name, theme etc...
